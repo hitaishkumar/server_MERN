@@ -21,3 +21,5 @@ mongoose.connect(CONNECTIION_URL)
 .catch((err) =>console.log('err.message :>> ', err.message) )
 
 // mongoose.set('useFindAndModify',false)  including this line leads to error
+
+// Image and Post Card Rnedered Lec: 36:55 
