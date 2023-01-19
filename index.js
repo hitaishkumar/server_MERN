@@ -25,3 +25,5 @@ mongoose.connect(CONNECTIION_URL)
 // Image and Post Card Rnedered Lec: 36:55 
 
 //https://youtu.be/ngc9gnGgUdA?t=2221
+
+//https://youtu.be/ngc9gnGgUdA?t=2349
